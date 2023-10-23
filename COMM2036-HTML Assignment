@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>CYRUS LO</title>
+    </head>
+    <body>
+        <h1 align="center">CYRUS LO</h1>
+        <h2>Personal Info</h2>
+        <ul>
+            <li>HKBU Year 1</li>
+            <li>Bachelor of Communication</li>
+            <li>05'</li>
+            <li>ig: @cyruslo345</li>
+        </ul>
+        <h2>Hobbies</h2>
+        <ol>
+            <li>Music</li>
+            <li>Travel</li>
+            <li>Movie</li>
+        </ol>
+
+        <h3><em> Music</em></h3>
+             <h4>My long-term favourite:</h4>
+             <iframe width="742" height="316" src="https://www.youtube.com/embed/xMLuHGu-BPU" title="AGA 江海迦 -《理性與任性之間》MV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+             <h4>My recent favourite:</h4>
+             <iframe width="742" height="417" src="https://www.youtube.com/embed/e_8z97iV2cI" title="陳蕾 Panther Chan - 神的不在場證明 Where Are You (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+        <h3><mark> Travel</mark></h3>
+             <h4>My favourite destination for vacation:</h4>
+             <h5>Okinawa, Japan!</h5>
+             <img src="https://cdn.japanbyjapan.com/uploads/3215/1542/9366/okinawa_sightseeing_capes.jpg"
+
+             <h4>My dream destination for vacation:</h4>
+             <h5>Cinque Terre, Italy!</h5>
+             <img src="https://lp-cms-production.imgix.net/2019-06/GettyImages-535829617_super.jpg?fit=crop&q=40&sharp=10&vib=20&auto=format&ixlib=react-8.6.4"
+
+    
+        <h3><strong> Movie</strong></h3>
+             <table border="1">
+                <caption>My favourite movies</caption>
+                <tr>
+                    <th>Year</th>
+                    <th>Title</th>
+                    <th>Country/Region of release</th>
+                    <th>Info</th>
+                </tr>
+                <tr>
+                    <td>2015</td>
+                    <td>Our Times</td>
+                    <td>Taiwan, China</td>
+                    <td><a href="https://mydramalist.com/15091-our-times"See more! </a></td>
+                </tr>
+                <tr>
+                    <td>2023</td>
+                    <td>A guilty conscience</td>
+                    <td>Hong Kong, China</td>
+                    <td><a href="https://mydramalist.com/737801-a-guilty-conscience"See more! </a></td>
+                </tr>
+                <tr>
+                    <td>2023</td>
+                    <td>Monster</td>
+                    <td>Japan</td>
+                    <td><a href="https://mydramalist.com/743747-kaibutsu"See more! </a></td>
+                </tr>
+            </table>
+
+        <p>
+        </p>
+
+    </body>
+
+</html>
